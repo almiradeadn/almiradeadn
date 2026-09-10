@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Almira Dea Ninggar 👋
 
-<!--
-**almiradeadn/almiradeadn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Data Analyst | SQL | Power BI | Excel
 
-Here are some ideas to get you started:
+Saya memiliki latar belakang D-IV Komputerisasi Akuntansi dengan pengalaman dalam pengelolaan dan validasi data administratif. Saat ini saya mengembangkan kemampuan di bidang Data Analytics dengan fokus pada SQL, Microsoft Power BI, Excel, Power Query, dan DAX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya tertarik mengubah data menjadi insight yang dapat membantu proses monitoring, reporting, dan pengambilan keputusan bisnis.
+
+## Skills
+
+- SQL / MySQL
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- Data Validation & Cleaning
+- Data Analysis
+- Dashboard Development
+- Reporting
+
+## Featured Project
+
+### Olist E-Commerce Analytics
+
+Business intelligence project yang menganalisis marketplace performance menggunakan SQL dan Power BI.
+
+**Focus:**
+- Sales & Product Performance
+- Customer Behavior
+- Delivery & Operations
+- Seller Performance
+- Customer Satisfaction
+
+🔗 [View Project Repository](https://github.com/almiradeadn/olist-ecommerce-analytics)
+
+## Education
+
+**D-IV Komputerisasi Akuntansi**  
+Politeknik Negeri Semarang — IPK 3.83
+
+## Contact
+
+- LinkedIn: [LinkedIn](http://www.linkedin.com/in/almira-dea-dara-ninggar-55b6a026a)
+- Email: [almiradeadn999@gmail.com](mailto:almiradeadn999@gmail.com)
