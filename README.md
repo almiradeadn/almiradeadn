@@ -2,9 +2,9 @@
 
 ### Junior Data Analyst | SQL | Power BI | Excel
 
-Saya memiliki latar belakang D-IV Komputerisasi Akuntansi dengan pengalaman dalam pengelolaan dan validasi data administratif. Saat ini saya mengembangkan kemampuan di bidang Data Analytics dengan fokus pada SQL, Microsoft Power BI, Excel, Power Query, dan DAX.
+Saya memiliki latar belakang D-IV Komputerisasi Akuntansi dengan pengalaman dalam pengelolaan dan validasi data administratif. Saat ini saya berfokus mengembangkan karier di bidang Data Analytics dengan fokus pada SQL, Microsoft Power BI, Excel, Power Query, dan DAX.
 
-Saya tertarik mengubah data menjadi insight yang dapat membantu proses monitoring, reporting, dan pengambilan keputusan bisnis.
+Saya tertarik mengubah data menjadi insight yang mendukung monitoring, reporting, dan pengambilan keputusan bisnis.
 
 ## Skills
 
@@ -31,7 +31,7 @@ Business intelligence project yang menganalisis marketplace performance mengguna
 - Seller Performance
 - Customer Satisfaction
 
-🔗 [View Project Repository](https://github.com/almiradeadn/olist-ecommerce-analytics)
+🔗 [Lihat Project Repository](https://github.com/almiradeadn/olist-ecommerce-analytics)
 
 ## Education
 
